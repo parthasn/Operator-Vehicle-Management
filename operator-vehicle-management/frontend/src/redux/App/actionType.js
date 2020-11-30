@@ -1,0 +1,2 @@
+export const SET_VEHICLE_DATA = 'SET_VEHICLE_DATA';
+export const SET_TRIP_DATA = 'SET_TRIP_DATA';
